@@ -1,6 +1,6 @@
 # Pacman-Searching
 - Artificial Intelligence related project, specifically implenting different searching methods with Pacman.
-- Four different layouts/mazes available.
+- Five different layouts/mazes available to use for testing.
 
 # Available Searching Methods
 - Breadth First Search
