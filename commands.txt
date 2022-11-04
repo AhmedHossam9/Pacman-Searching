@@ -1,0 +1,6 @@
+python pacman.py
+python pacman.py -l mediumMaze -z .5 -p SearchAgent //DFS
+python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs -z .5 //BFS
+python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs //UCS
+python pacman.py -l mediumMaze -p AStarFoodSearchAgent //A*
+python pacman.py -l mediumMaze -p SearchAgent -a fn=gbfs -z .5 //GBFS
