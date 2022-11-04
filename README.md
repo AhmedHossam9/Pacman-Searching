@@ -1,5 +1,5 @@
 # Pacman-Searching
-- Artificial Intelligence related project, specifically implenting different searching methods with Pacman.
+- Artificial Intelligence related project, specifically implenting different searching methods with little Pacman action in Python.
 - Five different layouts/mazes available to use for testing.
 
 # Available Searching Methods
